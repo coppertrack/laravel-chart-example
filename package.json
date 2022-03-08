@@ -16,6 +16,7 @@
         "postcss": "^8.1.14"
     },
     "dependencies": {
-        "chartjs": "^0.3.24"
+        "alpinejs": "^3.9.1",
+        "chart.js": "^3.7.1"
     }
 }

@@ -21,7 +21,7 @@ class QuoteFactory extends Factory
 
         return [
             'customer_id' => $this->faker->randomNumber(5),
-            'date' => $createdAt,
+            'payment_date' => $createdAt,
             'created_at' => $createdAt,
             'updated_at' => $createdAt,
         ];
